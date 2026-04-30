@@ -20,7 +20,7 @@ Power BI Dashboard
       ↓
 Business Insights & KPIs
 
-![Dashboard](<img width="745" height="500" alt="110" src="https://github.com/user-attachments/assets/f89db24a-bd9e-4cee-96fa-c7bce1d64ab4" />)
+ ![Image Alt](image_url)
 
 
  Features
