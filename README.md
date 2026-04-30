@@ -20,7 +20,7 @@ Power BI Dashboard
       ↓
 Business Insights & KPIs
 
- ![Image Alt](image_url)
+ ![Image Alt](https://github.com/Suraj-cho/End-to-End-E-commerce-Data-Pipeline-Project/blob/743fdc48dcd8506c71ad704f044a743399755851/flow.jpg)
 
 
  Features
